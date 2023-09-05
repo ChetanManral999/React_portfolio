@@ -1,1 +1,2 @@
 # React_portfolio
+The 'Portfolio Website' project showcases a sleek and dynamic online presence, developed with the React Vite framework, HTML, CSS, and JavaScript. It elegantly presents your work, skills, and achievements, providing a captivating experience for visitors. Furthermore, the website is meticulously designed to be fully responsive, ensuring it adapts flawlessly to various screen sizes and devices, enhancing your professional image across the digital landscape.
