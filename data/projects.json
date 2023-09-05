@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather app",
+      "imageSrc": "projects/project.png",
+      "description": "The 'Weather app' project showcases a dynamic web application crafted using HTML, CSS, and JavaScript, enabling users to effortlessly retrieve real-time weather information. Leveraging API integration, it delivers accurate weather updates for any location. What sets it apart is its responsive design, ensuring a seamless experience across various devices.",
+      "skills": ["Html", "Css", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Text to Speech",
+      "imageSrc": "projects/project.png",
+      "description": "The 'Text to Speech Converter' project is a versatile web application built with HTML, CSS, and JavaScript, allowing users to easily convert text into speech. Its user-friendly interface and seamless functionality make it a valuable tool for various purposes. What's more, it boasts a responsive design, ensuring a consistent experience across different devices.",
+      "skills": ["Css", "JavaScript", "Html"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Restaurant Webpage",
+      "imageSrc": "projects/project.png",
+      "description": "The 'Restaurant Webpage' project is an interactive platform crafted using the React framework, HTML, CSS, and JavaScript. It provides visitors with a delightful experience as they explore the restaurant's menu, reviews, and contact information.The webpage is designed to be fully responsive, ensuring optimal usability on a wide range of devices.",
+      "skills": ["React", "Css", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
